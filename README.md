@@ -3,6 +3,14 @@ A dataset named Ship Collection in Complex Optical Scene (SCCOS) is constructed,
 
 ### Dataset Description
 Ship detection plays a pivotal role in numerous military and civil applications, yet detecting ships in complex maritime and aerial environments remains a challenging task. While several publicly available datasets for ship detection have been introduced by researchers, most of them do not adequately address the impacts of diverse and intricate environmental factors, which makes the trained algorithms difficult to apply for practical application scenes involving clouds, sea clutter, complex lighting, and facility interferences, limiting the effectiveness and robustness of the detection models. To advance the field of ship detection method research, we propose a dataset named Ship Collection in Complex Optical Scene (SCCOS), which is obtained from multiple platform sources including Google Earth, Microsoft map, Worldview-3, Pleiades, Orbview-3, Jilin-1 and Ikonos satellites. The dataset comprehensively considers complex scenes such as thin clouds, mist, thick clouds, light shadows, sea clutter, port facilities. Additionally, we conduct experiments on this dataset with eleven representative detection algorithms and establish a performance benchmark, which can provide the theoretical basis and practical reference for the design and optimization of subsequent ship detection models.
+![Github0](https://github.com/user-attachments/assets/c8f1fee0-9fab-4ec7-a80a-16edc15bd023)
+Image source statistics of the proposed dataset
+
+![Github1](https://github.com/user-attachments/assets/cd920bec-6378-4ad9-8f23-bcfb67202cc2)
+Complex environmental interference situation of the dataset. (a) Mist interference. (b) Thin cloud interference. (c) Thick cloud interference. (d) Shadow interference. (e) Sea clutter interference. (f) Port facility interference.
+
+
+
 
 ### Dataset Download and Usage License
 The dataset is available on the following links:
