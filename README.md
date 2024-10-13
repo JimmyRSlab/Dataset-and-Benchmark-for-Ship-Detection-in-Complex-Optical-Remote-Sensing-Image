@@ -1,7 +1,7 @@
 # Dataset-and-Benchmark-for-Ship-Detection-in-Complex-Optical-Remote-Sensing-Image
 A dataset named Ship Collection in Complex Optical Scene (SCCOS) is constructed, which is obtained from multiple platform sources including Google Earth, Microsoft map, Worldview-3, Pleiades, Orbview-3, Jilin-1 and Ikonos satellites. 
 
-### Dataset Description
+## Dataset Description
 Ship detection plays a pivotal role in numerous military and civil applications, yet detecting ships in complex maritime and aerial environments remains a challenging task. While several publicly available datasets for ship detection have been introduced by researchers, most of them do not adequately address the impacts of diverse and intricate environmental factors, which makes the trained algorithms difficult to apply for practical application scenes involving clouds, sea clutter, complex lighting, and facility interferences, limiting the effectiveness and robustness of the detection models. To advance the field of ship detection method research, we propose a dataset named Ship Collection in Complex Optical Scene (SCCOS), which is obtained from multiple platform sources including Google Earth, Microsoft map, Worldview-3, Pleiades, Orbview-3, Jilin-1 and Ikonos satellites. The dataset comprehensively considers complex scenes such as thin clouds, mist, thick clouds, light shadows, sea clutter, port facilities. Additionally, we conduct experiments on this dataset with eleven representative detection algorithms and establish a performance benchmark, which can provide the theoretical basis and practical reference for the design and optimization of subsequent ship detection models.
 
 Table 1 Image source statistics of the proposed dataset
@@ -15,7 +15,7 @@ Figure 1 Complex environmental interference situation of the dataset. (a) Mist i
 Figure 2 Detection results provided by different baseline models: (a) Rotated faster R-CNN, (b) SASM, (c) Oriented RepPoints and (d) ground truth.
 
 
-### Dataset Download and Usage License
+## Dataset Download and Usage License
 The dataset is available on the following links:
 
 **Baidu Driver**: https://pan.baidu.com/s/1SFutPf2JqN0SONF7RfZA5A (**extraction password: fwth**)
@@ -28,7 +28,8 @@ Star this project and we will update the corresponding data consistently. **If y
 
 • All images and their associated annotations in SCCOS can be used for academic purposes only, but any commercial use is prohibited.
 
-• If you need to use our dataset to make research, **please cite our essay (Dataset and Benchmark for Ship Detection in Complex Optical Remote Sensing Image) (The essay is acceped and the link is below)**.
+## Citation 
+If you need to use our dataset to make research, **please cite our essay (Dataset and Benchmark for Ship Detection in Complex Optical Remote Sensing Image) (The essay is acceped and the link is below)**.
 
 ```
 @article{hu2024dataset,
@@ -39,6 +40,5 @@ Star this project and we will update the corresponding data consistently. **If y
   publisher={IEEE}
 }
 ```
-
-### Contact
+## Contact
 If you have any problem or feedback in using SCCOS dataset, please contact me at hujianming@hit.edu.cn.
