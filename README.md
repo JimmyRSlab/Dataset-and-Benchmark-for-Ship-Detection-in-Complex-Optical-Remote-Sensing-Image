@@ -10,7 +10,7 @@ A dataset named Ship Collection in Complex Optical Scene (SCCOS), which is obtai
 ### Dataset Download and Usage License
 The dataset is available on the following links:
 
-Baidu Driver:
+Baidu Driver:https://pan.baidu.com/s/1SFutPf2JqN0SONF7RfZA5A (extraction password: fwth)
 Google Driver:
 • Use of Google Earth images must respect the "Google Earth" terms of use.
 
