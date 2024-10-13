@@ -1,18 +1,15 @@
 # Dataset-and-Benchmark-for-Ship-Detection-in-Complex-Optical-Remote-Sensing-Image
-A dataset named Ship Collection in Complex Optical Scene (SCCOS), which is obtained from multiple platform sources including Google Earth, Microsoft map, Worldview-3, Pleiades, Orbview-3, Jilin-1 and Ikonos satellites. 
+A dataset named Ship Collection in Complex Optical Scene (SCCOS) is constructed, which is obtained from multiple platform sources including Google Earth, Microsoft map, Worldview-3, Pleiades, Orbview-3, Jilin-1 and Ikonos satellites. 
 
 ### Dataset Description
-
-
-
-
+Ship detection plays a pivotal role in numerous military and civil applications, yet detecting ships in complex maritime and aerial environments remains a challenging task. While several publicly available datasets for ship detection have been introduced by researchers, most of them do not adequately address the impacts of diverse and intricate environmental factors, which makes the trained algorithms difficult to apply for practical application scenes involving clouds, sea clutter, complex lighting, and facility interferences, limiting the effectiveness and robustness of the detection models. To advance the field of ship detection method research, we propose a dataset named Ship Collection in Complex Optical Scene (SCCOS), which is obtained from multiple platform sources including Google Earth, Microsoft map, Worldview-3, Pleiades, Orbview-3, Jilin-1 and Ikonos satellites. The dataset comprehensively considers complex scenes such as thin clouds, mist, thick clouds, light shadows, sea clutter, port facilities. Additionally, we conduct experiments on this dataset with eleven representative detection algorithms and establish a performance benchmark, which can provide the theoretical basis and practical reference for the design and optimization of subsequent ship detection models.
 
 ### Dataset Download and Usage License
 The dataset is available on the following links:
 
-**Baidu Driver:https://pan.baidu.com/s/1SFutPf2JqN0SONF7RfZA5A (extraction password: fwth)**
+**Baidu Driver**: https://pan.baidu.com/s/1SFutPf2JqN0SONF7RfZA5A (**extraction password: fwth**)
 
-**Google Driver:**
+**Google Driver**: https://drive.google.com/drive/folders/1VGJ6e9NVgN1BXvA8BkgGusWKW69odeUn?usp=sharing
 
 Star this project and we will update the corresponding data consistently. **If you want use our dataset, please follows these rules:**
 
